@@ -1,0 +1,11 @@
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\bin\Debug\JPEGAUSDevDemo.exe.config
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\bin\Debug\JPEGAUSDevDemo.exe
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\bin\Debug\JPEGAUSDevDemo.pdb
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\bin\Debug\JPEGAUSDevDemo.xml
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\obj\Debug\JPEGAUSDevDemo.vbprojResolveAssemblyReference.cache
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\obj\Debug\JPEGAUSDevDemo.frmlogin.resources
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\obj\Debug\JPEGAUSDevDemo.Resources.resources
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\obj\Debug\JPEGAUSDevDemo.vbproj.GenerateResource.Cache
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\obj\Debug\JPEGAUSDevDemo.exe
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\obj\Debug\JPEGAUSDevDemo.xml
+c:\users\kj252\documents\visual studio 2015\Projects\JPEGAUSDevDemo\JPEGAUSDevDemo\obj\Debug\JPEGAUSDevDemo.pdb
